@@ -16,3 +16,5 @@ A lightweight Python CLI tool designed for cybersecurity beginners and system ad
 2. Run the script :
    ```bash
    python AutomatedLogAnalyzer.py
+
+You can use the provided sample_logs.txt file to test the script.
