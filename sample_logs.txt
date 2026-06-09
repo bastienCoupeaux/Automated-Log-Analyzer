@@ -1,0 +1,6 @@
+192.168.1.20 - - [09/Jun/2026:14:00:01] "GET /index.html HTTP/1.1" 200
+192.168.1.20 - - [09/Jun/2026:14:00:15] "GET /assets/style.css HTTP/1.1" 200
+185.220.101.5 - - [09/Jun/2026:14:01:00] "GET /wp-admin.php HTTP/1.1" 404
+185.220.101.5 - - [09/Jun/2026:14:01:02] "GET /admin/config.json HTTP/1.1" 404
+185.220.101.5 - - [09/Jun/2026:14:01:05] "GET /backup.sql HTTP/1.1" 404
+192.168.1.45 - - [09/Jun/2026:14:02:10] "POST /login.php HTTP/1.1" 200
